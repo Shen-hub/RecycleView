@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string-array name="Colors">
+        <item>purple_200</item>
+        <item>purple_500</item>
+        <item>purple_700</item>
+        <item>teal_200</item>
+        <item>teal_700</item>
+        <item>blue_200</item>
+        <item>blue_400</item>
+    </string-array>
+</resources>
